@@ -32,7 +32,7 @@ I write embedded software that runs reliably on a variety of microcontrollers, i
 ---
 
 ### 🔹 Key Projects
-🚀 All my embedded systems and firmware projects are available on my [GitHub](https://github.com/kgsinh).
+🚀 All my embedded systems and firmware projects are available on my [GitHub](https://github.com/kgsinh?tab=repositories).
 
 ---
 
