@@ -2,7 +2,9 @@
 
 ### Embedded Software Engineer | Firmware Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgsinh&label=Profile views&color=0e75b6&style=flat" alt="kgsinh" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kgsinh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 - 🔭 I'm currently working on **STM32 and ESP32 Projects**
 
