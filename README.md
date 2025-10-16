@@ -6,12 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=kgsinh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-- 🔭 I'm currently working on **STM32 and ESP32 Projects**
+- 🔭 I'm currently working on
+  **STM32 and ESP32 Projects**
 
-- 🌱 I'm currently learning **LVGL display integration  
-CI/CD pipelines for firmware testing  
-MISRA C and safety standards (IEC 61508)
-Application-level design patterns in embedded systems**
+- 🌱 I'm currently learning
+ **LVGL display integration
+  CI/CD pipelines for firmware testing
+  MISRA C and safety standards (IEC 61508)
+  Application-level design patterns in embedded systems**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
